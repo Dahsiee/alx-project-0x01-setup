@@ -24,7 +24,7 @@ export interface UserProps {
   website: string;
   company: {
     name: string;
-    catchPrase: string;
+    catchPhrase: string;
     bs: string;
   }
     }
